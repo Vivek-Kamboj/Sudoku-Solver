@@ -77,7 +77,7 @@ def main():
     if solve_sudoku():
         print_board()
     else:
-        print("No Solution Exist!!")
+        print("There is no solution for this!!")
 
 
 main()

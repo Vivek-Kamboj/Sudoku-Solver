@@ -1,1 +1,2 @@
-<h1>Sudoku Solver</h1>
+### Sudoku Solver
+This is a sudoku solver written in Python Langauge

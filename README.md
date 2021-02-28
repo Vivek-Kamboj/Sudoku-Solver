@@ -1,4 +1,4 @@
-# Sudoku Solver
+# Sudoku Solver ✨
 Sudoku is a logic-based, combinatorial number-placement puzzle. In classic sudoku, the objective is to fill a 9×9 grid with digits so that each column, each row, and each of the nine 3×3 subgrids that compose the grid contain all of the digits from 1 to 9.
 
 👕
@@ -6,7 +6,7 @@ I loves playing this mind-challenging game, so I thought of automating it using 
 
 
 ### PreRequisites
-- [X] Python, Tkinter installed
+- [X] Python, Tkinter, OpenCV, etc installed
 
 ### How to Run
 - [X] Run- Python3 main.py

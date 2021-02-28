@@ -15,8 +15,7 @@ I loves playing this mind-challenging game, so I thought of automating it using 
 
 ## How to play:
 ```
-This is in the beta state, so some of the features may not work.
-We are working on them, and they will be available soon.
+This is in the beta state, so some of the features may not work. We are working on them, and they will be available soon.
 ```
 - We can give input using an input file or some picture or using your own camera to capture the sudoku board.
 - Then, it read the numbers and provides the desktop interface.
